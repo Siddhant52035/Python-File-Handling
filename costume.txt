@@ -1,0 +1,6 @@
+FormalCostume,Megaplex,$14.5,2
+Fairy Costume,DollarSmart,$18,12
+Thor Costume,Marvel INS,$23,6
+Ant Costume,Comics Con,$25,10
+Spidey Costume,Disney World,$40,20
+Hulk Costume,Marvel Inc,$8.5,12
